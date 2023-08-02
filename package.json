@@ -1,0 +1,17 @@
+{
+	"name": "nvm-auto",
+	"version": "1.1.0",
+	"description": "Simply use node version that matches engines.node field of package.json file.",
+	"bin": {
+		"nvm-auto": "index.js"
+	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/wszydlak/nvm-auto"
+  },
+	"author": "Wojciech Szydlak <szydlak.work@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"semver": "^7.5.4"
+	}
+}
