@@ -12,6 +12,6 @@
 	"author": "Wojciech Szydlak <szydlak.work@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"semver": "^7.5.4"
+		"semver": "7.5.4"
 	}
 }
